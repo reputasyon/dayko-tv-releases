@@ -4,14 +4,16 @@ Mac (ve yakında Windows) için IPTV oynatıcı: Netflix tarzı arayüz, canlı 
 
 ## İndir
 
-**[Dayko TV — Mac (en son sürüm)](https://github.com/reputasyon/dayko-tv-releases/releases/latest/download/DaykoTV-Mac.zip)**
+**[Dayko TV — Mac (en son sürüm, .dmg)](https://github.com/reputasyon/dayko-tv-releases/releases/latest/download/DaykoTV-Mac.dmg)**
+
+Zip tercih edersen: [DaykoTV-Mac.zip](https://github.com/reputasyon/dayko-tv-releases/releases/latest/download/DaykoTV-Mac.zip)
 
 - macOS 12 veya üstü, Apple Silicon ve Intel.
 - Apple tarafından onaylı (notarized): indirip çift tıklayınca açılır.
 
 ## Kurulum
 
-1. Zip dosyasını aç, çıkan **Dayko TV** uygulamasını **Uygulamalar** klasörüne sürükle.
+1. DMG dosyasını aç, açılan pencerede **Dayko TV**'yi **Uygulamalar** klasörüne sürükle.
 2. Uygulamayı aç, yayın sağlayıcından aldığın M3U linkini ya da Xtream bilgilerini gir.
 
 ## Önemli
