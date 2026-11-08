@@ -1,6 +1,6 @@
 # Dayko TV
 
-Mac (ve yakında Windows) için IPTV oynatıcı: Netflix tarzı arayüz, canlı TV, filmler ve diziler.
+Kendi IPTV listeni izlemek için bir oynatıcı. İçinde hiçbir kanal ya da içerik yok.
 
 ## İndir
 
